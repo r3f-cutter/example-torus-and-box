@@ -9,7 +9,8 @@
     "leva": "0.9.34",
     "react": "18.2.0",
     "react-dom": "18.2.0",
-    "three": "0.150.1"
+    "three": "0.150.1",
+    "react-scripts": "5.0.1"
   },
   "scripts": {
     "start": "react-scripts start",
